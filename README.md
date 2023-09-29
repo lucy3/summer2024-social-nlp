@@ -11,7 +11,7 @@ seo:
 
 ### INFO 290: Special Topics in Information
 
-### Berkeley, Summer 2024
+**Berkeley Summer 2024**
 
 **Instructor:** [Lucy Li](https://lucy3.github.io/)
 
