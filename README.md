@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Social Aspects of Natural Language Processing
+title: Social NLP
 nav_exclude: true
 permalink: /:path/
 seo:
