@@ -23,8 +23,6 @@ Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Wi
 
 Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?🦜. In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency (pp. 610-623).
 
-Then, look through the papers cited by each of the two papers above and skim 4-5 that stand out to you to initiate project brainstorming. 
-
 ## Data & model pitfalls
 
 <span style="color:gray">**Required:**</span>
