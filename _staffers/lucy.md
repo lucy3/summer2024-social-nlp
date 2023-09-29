@@ -5,7 +5,5 @@ email: lucy3_li@berkeley.edu
 website: https://lucy3.github.io/
 photo: lucy.jpg
 meta:
-  I am the instructor!
+  I am a PhD student at the School of Information and Berkeley AI Research.
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
