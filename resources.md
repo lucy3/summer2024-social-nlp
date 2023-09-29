@@ -9,7 +9,7 @@ description: >-
 
 ## Similar Courses
 
-* Cornell University -[Natural Language Processing and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2019fa/)
+* Cornell University - [Natural Language Processing and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2019fa/)
 * Stanford University - [Ethical and Social Issues in Natural Language Processing](https://web.stanford.edu/class/cs384/)
 * Stanford University - [NLP for Computational Social Science](http://web.stanford.edu/class/cs224c/)
 * Stanford University - [Human-Centered NLP](http://web.stanford.edu/class/cs329x/)
