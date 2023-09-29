@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Lucy Li
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: lucy3_li@berkeley.edu
+website: https://lucy3.github.io/
+photo: lucy.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  I am the instructor!
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
