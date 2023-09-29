@@ -7,6 +7,8 @@ description: >-
 
 # Resources
 
+More links to publicly-available online textbooks, tutorials, and other interesting tidbits will be added soon...
+
 ## Similar Courses
 
 * Cornell University - [Natural Language Processing and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2019fa/)

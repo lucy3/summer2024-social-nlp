@@ -16,7 +16,6 @@ This is a tentative list. Since NLP is constantly changing as a field, this may 
 {:toc}
 
 ## Introduction
-&nbsp;  
 
 <span style="color:gray">**Required:**</span>
 
@@ -27,7 +26,6 @@ Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On
 Then, look through the papers cited by each of the two papers above and skim 4-5 that stand out to you to initiate project brainstorming. 
 
 ## Data & model pitfalls
-&nbsp;  
 
 <span style="color:gray">**Required:**</span>
 
