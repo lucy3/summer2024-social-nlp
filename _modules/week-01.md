@@ -1,23 +1,59 @@
 ---
-title: Introduction to Java
+title: Course Overview
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+1
+: **Lecture**{: .label .label-purple }Introduction
+  : [Readings](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+2
+: **Lecture**{: .label .label-purple }Data and model pitfalls
+  : [Readings](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+3
+: **Lecture**{: .label .label-purple }“Good” research practices
+  : [Readings](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+4
+: **Lecture**{: .label .label-purple }Computational social science
+  : [Readings](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+5
+: NLP for conversations
+  : [Readings](#)
+
+6
+: NLP for communities
+  : [Readings](#)
+
+7
+: Computational sociolinguistics
+  : [Readings](#)
+
+8
+: Misinformation, factuality, & toxicity
+  : [Readings](#)
+
+9
+: NLP for literature & history
+  : [Readings](#)
+
+10
+: NLP for education & political science
+  : [Readings](#)
+
+11
+: Quantifying bias across domains
+  : [Readings](#)
+
+12
+: Biases in the LLM pipeline
+  : [Readings](#)
+
+13
+: HCI & NLP
+  : [Readings](#)
+
+14
+: NLP & HCI
+  : [Readings](#)
