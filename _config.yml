@@ -18,7 +18,7 @@ tagline: Special Topics in Information
 description: Summer 2024, Berkeley School of Information
 author: Lucy Li
 baseurl: '/summer2024-social-nlp' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://lucy3.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
