@@ -7,7 +7,7 @@ description: Readings for each class.
 # Readings
 {:.no_toc}
 
-This is a tentative list. Since NLP is constantly changing as a field, this may change prior to the start of the course. 
+Since NLP is constantly changing as a field, this may change prior to the start of the course. Feel free to use this tentative list to get a sense of whether this course may be interesting to you before enrolling.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -33,7 +33,7 @@ Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases
 
 Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020, July). The State and Fate of Linguistic Diversity and Inclusion in the NLP World. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 6282-6293).
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Carlini, N., Hayes, J., Nasr, M., Jagielski, M., Sehwag, V., Tramer, F., ... & Wallace, E. (2023). Extracting training data from diffusion models. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 5253-5270).
 
@@ -59,7 +59,7 @@ Birhane et al. (2022). The Values Encoded in Machine Learning. Proceedings of th
 
 Leins, K., Lau, J. H., & Baldwin, T. (2020, July). Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 2908-2913).
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Jakesch, M., Buçinca, Z., Amershi, S., & Olteanu, A. (2022, June). How different groups prioritize ethical values for responsible AI. In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency (pp. 310-323).
 
@@ -79,7 +79,7 @@ Lazer, D. M., Pentland, A., Watts, D. J., Aral, S., Athey, S., Contractor, N., .
 
 Ziems et al. (2023). Can Large Language Models Transform Computational Social Science? Arxiv.
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Evans, J. A., & Aceves, P. (2016). Machine translation: mining text for social theory. Annual Review of Sociology, 42, 21-50.
 
@@ -103,7 +103,7 @@ Chang, J. P., Chiam, C., Fu, L., Wang, A., Zhang, J., & Danescu-Niculescu-Mizil,
 
 Voigt, R., Camp, N. P., Prabhakaran, V., Hamilton, W. L., Hetey, R. C., Griffiths, C. M., ... & Eberhardt, J. L. (2017). Language from police body camera footage shows racial disparities in officer respect. Proceedings of the National Academy of Sciences, 114(25), 6521-6526.
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Danescu-Niculescu-Mizil, C., & Lee, L. (2011, June). Chameleons in Imagined Conversations: A New Approach to Understanding Coordination of Linguistic Style in Dialogs. In Proceedings of the 2nd Workshop on Cognitive Modeling and Computational Linguistics (pp. 76-87).
 
@@ -125,7 +125,7 @@ Bruckman, A. (2006, April). A new perspective on "community" and its implication
 
 Yang, D., Kraut, R. E., Smith, T., Mayfield, E., & Jurafsky, D. (2019, May). Seekers, providers, welcomers, and storytellers: Modeling social roles in online health communities. In Proceedings of the 2019 CHI conference on human factors in computing systems (pp. 1-14).
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Gilbert, E., & Karahalios, K. (2009, April). Predicting tie strength with social media. In Proceedings of the SIGCHI conference on human factors in computing systems (pp. 211-220).
 
@@ -148,7 +148,7 @@ Vilhena, D. A., Foster, J. G., Rosvall, M., West, J. D., Evans, J., & Bergstrom,
 Nguyen, D., Doğruöz, A. S., Rosé, C. P., & De Jong, F. (2016). Computational sociolinguistics: A survey. Computational linguistics, 42(3), 537-593.
 Bucholtz, M., & Hall, K. (2004). Language and identity. A Companion to Linguistic Anthropology, 1, 369-394.
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Nguyen, D., Rosseel, L., & Grieve, J. (2021, June). On learning and representing social meaning in NLP: a sociolinguistic perspective. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 603-612).
 
@@ -174,7 +174,7 @@ Welbl, J., Glaese, A., Uesato, J., Dathathri, S., Mellor, J., Hendricks, L. A., 
 
 Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. Science, 359(6380), 1146-1151.
 
-<span style="color:gray">Optional:</span> 
+<span style="color:gray">**Optional:**</span> 
 
 Waseem, Z., Davidson, T., Warmsley, D., & Weber, I. (2017, August). Understanding Abuse: A Typology of Abusive Language Detection Subtasks. In Proceedings of the First Workshop on Abusive Language Online (pp. 78-84).
 
@@ -204,7 +204,7 @@ Piper, A., So, R. J., & Bamman, D. (2021, November). Narrative theory for comput
 
 Marche. (2012). Literature Is not Data: Against Digital Humanities. Los Angeles Review of Books. 
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Nelson, L. K., Getman, R., & Haque, S. A. (2022). And the Rest is History: Measuring the Scope and Recall of Wikipedia’s Coverage of Three Women’s Movement Subgroups. Sociological Methods & Research, 51(4), 1788-1825.
 
@@ -228,7 +228,7 @@ McFarland, D. A., Khanna, S., Domingue, B. W., & Pardos, Z. A. (2021). Education
 
 Rodriguez, P. L., & Spirling, A. (2022). Word embeddings: What works, what doesn’t, and how to tell the difference for applied research. The Journal of Politics, 84(1), 101-115.
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Demszky, D., Liu, J., Mancenido, Z., Cohen, J., Hill, H., Jurafsky, D., & Hashimoto, T. B. (2021, August). Measuring Conversational Uptake: A Case Study on Student-Teacher Interactions. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 1638-1653).
 
@@ -254,7 +254,7 @@ Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020, July). Langua
 
 Field, A., Blodgett, S. L., Waseem, Z., & Tsvetkov, Y. (2021, August). A Survey of Race, Racism, and Anti-Racism in NLP. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 1905-1925).
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Field, A., Park, C. Y., Lin, K. Z., & Tsvetkov, Y. (2022, April). Controlled analyses of social biases in Wikipedia bios. In Proceedings of the ACM Web Conference 2022 (pp. 2624-2635).
 
@@ -276,7 +276,7 @@ Kumar, S., Balachandran, V., Njoo, L., Anastasopoulos, A., & Tsvetkov, Y. (2023,
 
 Blodgett, S. L., Lopez, G., Olteanu, A., Sim, R., & Wallach, H. (2021, August). Stereotyping Norwegian salmon: An inventory of pitfalls in fairness benchmark datasets. In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers) (pp. 1004-1015).
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Sheng, E., Chang, K. W., Natarajan, P., & Peng, N. (2019, November). The Woman Worked as a Babysitter: On Biases in Language Generation. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 3407-3412).
 
@@ -300,7 +300,7 @@ Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., ..
 
 Birhane, A., Isaac, W., Prabhakaran, V., Diaz, M., Elish, M. C., Gabriel, I., & Mohamed, S. (2022). Power to the people? Opportunities and challenges for participatory AI. Equity and Access in Algorithms, Mechanisms, and Optimization, 1-8.
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Lee, M., Liang, P., & Yang, Q. (2022, April). CoAuthor: Designing a human-AI collaborative writing dataset for exploring language model capabilities. In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (pp. 1-19).
 
@@ -330,7 +330,7 @@ Lee, M., Srivastava, M., Hardy, A., Thickstun, J., Durmus, E., Paranjape, A., ..
 
 Ribeiro, M. T., Wu, T., Guestrin, C., & Singh, S. (2020, July). Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 4902-4912).
 
-<span style="color:gray">Optional:</span>
+<span style="color:gray">**Optional:**</span>
 
 Wang, Z. J., Choi, D., Xu, S., & Yang, D. (2021, April). Putting Humans in the Natural Language Processing Loop: A Survey. In Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing (pp. 47-52).
 
