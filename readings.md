@@ -5,12 +5,19 @@ description: Readings for each class.
 ---
 
 # Readings
+{:.no_toc}
 
-This is a tentative list and may change prior to the start of the course as NLP is constantly changing as a field. 
+This is a tentative list. Since NLP is constantly changing as a field, this may change prior to the start of the course. 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Introduction
 
-*Required:*
+<span style="color:gray">**Required:**</span>
 
 Nguyen, D., Liakata, M., DeDeo, S., Eisenstein, J., Mimno, D., Tromble, R., & Winters, J. (2020). How we do things with words: Analyzing text as social and cultural data. Frontiers in Artificial Intelligence, 3, 62.
 
@@ -19,11 +26,12 @@ Then, look through the papers cited by each of the two papers above and skim 4-5
 
 ## Data & model pitfalls
 
-Required: 
+<span style="color:gray">**Required:**</span>
 
 Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases, methodological pitfalls, and ethical boundaries. Frontiers in Big Data, 2, 13.
 Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020, July). The State and Fate of Linguistic Diversity and Inclusion in the NLP World. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 6282-6293).
-Pick one: 
+
+Optional: 
 
 Carlini, N., Hayes, J., Nasr, M., Jagielski, M., Sehwag, V., Tramer, F., ... & Wallace, E. (2023). Extracting training data from diffusion models. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 5253-5270).
 
