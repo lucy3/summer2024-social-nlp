@@ -23,7 +23,7 @@ This course is targeted towards graduate students and advanced undergraduates wh
 
 **Recommended prerequisites**: Info 159/259, Info 256, CS 288 or equivalent experience.
 
-This course is 10 weeks long, in-person, likely with two classes per week (one 2 hours long, one 2.5 hours long). 
+This course is 3 units, 10 weeks long, in-person, likely with two classes per week (one 2 hours long, one 2.5 hours long). 
 
 {% for module in site.modules %}
 {{ module }}
