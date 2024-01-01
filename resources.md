@@ -7,7 +7,12 @@ description: >-
 
 # Resources
 
-More links to publicly-available online textbooks, tutorials, and other interesting tidbits will be added soon...
+## Free Online Textbooks
+
+* [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+* [Network Science](http://networksciencebook.com/)
+* [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/)
+* [Patterns, Predictions, and Actions: A Story about Machine Learning](https://mlstory.org/)
 
 ## Similar Courses
 
