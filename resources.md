@@ -13,7 +13,7 @@ description: >-
 * [Network Science](http://networksciencebook.com/)
 * [Bit By Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/)
 * [Patterns, Predictions, and Actions: A Story about Machine Learning](https://mlstory.org/)
-* [Introduction to Cultural Analytis and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome)
+* [Introduction to Cultural Analytics and Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome)
 
 ## Similar Courses
 
