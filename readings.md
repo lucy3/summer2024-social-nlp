@@ -288,6 +288,8 @@ Luccioni, A., & Viviano, J. (2021, August). What’s in the box? an analysis of 
 
 Kirk, H. R., Jun, Y., Volpin, F., Iqbal, H., Benussi, E., Dreyer, F., ... & Asano, Y. (2021). Bias out-of-the-box: An empirical analysis of intersectional occupational biases in popular generative language models. Advances in Neural Information Processing Systems, 34, 2611-2624.
 
+Ovalle, A., Goyal, P., Dhamala, J., Jaggers, Z., Chang, K. W., Galstyan, A., ... & Gupta, R. (2023, June). “I’m fully who I am”: Towards Centering Transgender and Non-Binary Voices to Measure Biases in Open Language Generation. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 1246-1266).
+
 Cao, Y. T., Pruksachatkun, Y., Chang, K. W., Gupta, R., Kumar, V., Dhamala, J., & Galstyan, A. (2022, May). On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers) (pp. 561-570).
 
 ## HCI & NLP
