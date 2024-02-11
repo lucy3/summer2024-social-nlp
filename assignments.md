@@ -8,7 +8,7 @@ description: Descriptions of course assignments and grading guidelines.
 
 Assessment consists of reading responses (15%), discussion leading (15%), class participation (10%), and a final project (60%). 
 
-The assignments detailed below may change prior to the beginning of the course, and the current version is here mostly to help students determine if they wish to take this course before enrolling. Please check back on the first day of class for the finalized version.  
+The assignments detailed below may change prior to the beginning of the course, depending on the size of the class. The current version is here mostly to help students determine if they wish to take this course before enrolling. Please check back on the first day of class for the finalized version.  
 
 ## Reading responses (15%) 
 
@@ -23,7 +23,7 @@ Each response will be graded on a binary scale of 85% (surface-level engagement 
 
 ## Leading discussion (15%)
 
-Non-lecture classes will have 2-3 discussion leaders. They will: 
+Non-lecture classes will have discussion leaders. They will: 
 - Make a presentation (~10 min) recapping one optional reading of your choice in lieu of a reading response. This is due the class before the target class period. Lucy will make edits (focusing on factuality or faithfulness to the original paper) or minor suggestions (to improve presentation clarity) the day before class that you should incorporate before you present.
 - Lead a 45 min discussion initiated by students’ reactions to your presentation and their reading responses to required readings
 
@@ -44,7 +44,7 @@ Participation is graded on a trinary scale of 85%, 100%, 110%, where the latter 
 
 ## Final project (60%) 
 
-These are done in groups of 2-3. Groups of 1 may occur with a requested exception, e.g. if the project directly ties into a student’s capstone or dissertation. The aim of this project is to produce a paper similar to the ones we’ve been reading throughout the course. 
+These are done in groups of 1-3, depending on the size of the class. The aim of this project is to produce a paper similar to the ones we’ve been reading throughout the course. 
 
 ### Brainstorming (10 pts)
 
