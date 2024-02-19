@@ -25,7 +25,7 @@ This course is targeted towards graduate students and advanced undergraduates wh
 
 The above prerequisites are a *recommendation* but not a *requirement*. Feel free to email Lucy if you are interested in these topics but have questions or concerns about your readiness for this class. 
 
-**Undergraduates**: Email studentaffairs@ischool.berkeley.edu, who will provide you with single-use permission codes to enroll. Lucy is currently looking into getting this class to count for Data Science majors and will update the website once this is possible. 
+**Undergraduates**: Email studentaffairs@ischool.berkeley.edu, who will provide you with single-use permission codes to enroll. Lucy is currently looking into getting this class to count for Data Science majors and will update this website with more information once she receives it.
 
 This course is 3 units, 10 weeks long, in-person, likely with two classes per week (one 2 hours long, one 2.5 hours long). Lucy will be arranging some fantastic guest lecturers to visit as well.  
 
