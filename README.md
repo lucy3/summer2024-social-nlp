@@ -15,8 +15,6 @@ seo:
 
 **Instructor:** [Lucy Li](https://lucy3.github.io/)
 
-**NOTE:** I am aware that there are some ongoing issues for Data Science undergraduates who are trying to enroll. I've contacted relevant people to figure out what's going on and get this resolved. Any updates will be posted here! Thank you. 
-
 **Description**
 
 This advanced seminar course provides an overview of current research at the intersection of natural language processing (NLP) and adjacent research areas that emphasize the social aspects of language, such as computational social science, cultural analytics, AI ethics, and HCI. Students will learn how NLP can help answer social scientific questions, and how social aspects of language are incorporated into NLP models. We’ll examine social issues and pitfalls within the field, and how we can use NLP methods to analyze and support communication and behavior. 
@@ -27,9 +25,9 @@ This course is targeted towards graduate students and advanced undergraduates wh
 
 The above prerequisites are a *recommendation* but not a *requirement*. Feel free to email Lucy if you are interested in these topics but have questions or concerns about your readiness for this class. 
 
-This course is 3 units, 10 weeks long, in-person, likely with two classes per week (one 2 hours long, one 2.5 hours long). Lucy will be arranging some fantastic guest lecturers to visit as well.  
+**Undergraduates**: Email studentaffairs@ischool.berkeley.edu, who will provide you with single-use permission codes to enroll. Lucy is currently looking into getting this class to count for Data Science majors and will update the website once this is possible. 
 
-**Related information**: [Getting into I School Classes](https://www.ischool.berkeley.edu/courses/take-a-class), [Petitioning a Course to Count for Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/advising/forms-procedures)
+This course is 3 units, 10 weeks long, in-person, likely with two classes per week (one 2 hours long, one 2.5 hours long). Lucy will be arranging some fantastic guest lecturers to visit as well.  
 
 {% for module in site.modules %}
 {{ module }}
