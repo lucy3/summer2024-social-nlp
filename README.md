@@ -15,6 +15,8 @@ seo:
 
 **Instructor:** [Lucy Li](https://lucy3.github.io/)
 
+**NOTE:** I am aware that there are some ongoing issues for Data Science undergraduates who are trying to enroll. I've contacted relevant people to figure out what's going on and get this resolved. Any updates will be posted here! Thank you. 
+
 **Description**
 
 This advanced seminar course provides an overview of current research at the intersection of natural language processing (NLP) and adjacent research areas that emphasize the social aspects of language, such as computational social science, cultural analytics, AI ethics, and HCI. Students will learn how NLP can help answer social scientific questions, and how social aspects of language are incorporated into NLP models. We’ll examine social issues and pitfalls within the field, and how we can use NLP methods to analyze and support communication and behavior. 
