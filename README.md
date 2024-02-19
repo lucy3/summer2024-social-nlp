@@ -29,6 +29,8 @@ The above prerequisites are a *recommendation* but not a *requirement*. Feel fre
 
 This course is 3 units, 10 weeks long, in-person, likely with two classes per week (one 2 hours long, one 2.5 hours long). Lucy will be arranging some fantastic guest lecturers to visit as well.  
 
+**Related information**: [Getting into I School Classes](https://www.ischool.berkeley.edu/courses/take-a-class), [Petitioning a Course to Count for Data Science](https://data.berkeley.edu/academics/data-science-undergraduate-studies/advising/forms-procedures)
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
