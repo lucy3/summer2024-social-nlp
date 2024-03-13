@@ -9,6 +9,8 @@ description: Readings for each class.
 
 Since NLP is constantly changing as a field, this may change prior to the start of the course. Feel free to use this tentative list to get a sense of whether this course may be interesting to you before enrolling.
 
+Readings should be completed *before* class. 
+
 ## Table of contents
 {: .no_toc .text-delta }
 
