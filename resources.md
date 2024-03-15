@@ -33,3 +33,4 @@ description: >-
 ## Miscellaneous 
 
 * [aiEDU's AI Snapshots](https://docs.google.com/presentation/d/1i3GaqNUIIHoSLTptHu-0TQ4vZGFyEbN2-RWxaGZps-c/edit?usp=sharing)
+* [AI for Humanists](https://www.aiforhumanists.com/)
