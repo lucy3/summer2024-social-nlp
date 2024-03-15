@@ -29,3 +29,7 @@ description: >-
 * University of Toronto - [Topics in Computational Social Science: AI, Data, and Society](http://www.cs.toronto.edu/~ashton/csc2552/)
 * Johns Hopkins University - [AI Ethics and Social Impact](http://ai-ethics-601-770.cs.jhu.edu/fa2023/)
 * Carnegie Mellon University - [Human-Centered NLP](https://www.cs.cmu.edu/~sherryw/courses/2023s-hcnlp.html)
+
+## Miscellaneous 
+
+* [aiEDU's AI Snapshots](https://docs.google.com/presentation/d/1i3GaqNUIIHoSLTptHu-0TQ4vZGFyEbN2-RWxaGZps-c/edit?usp=sharing)
