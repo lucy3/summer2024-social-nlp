@@ -7,10 +7,6 @@ description: Readings for each class.
 # Readings
 {:.no_toc}
 
-Since NLP is constantly changing as a field, this may change prior to the start of the course. Feel free to use this tentative list to get a sense of whether this course may be interesting to you before enrolling.
-
-Readings should be completed *before* class. 
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -33,19 +29,21 @@ Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). Social data: Biases
 
 Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020, July). The State and Fate of Linguistic Diversity and Inclusion in the NLP World. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (pp. 6282-6293).
 
+Fiesler, C., & Proferes, N. (2018). “Participant” perceptions of Twitter research ethics. Social Media + Society, 4(1), 2056305118763366.
+
+Klein & D’Ignazio (2020). "What Gets Counted Counts" from Data Feminism.
+
 <span style="color:gray">**Optional:**</span>
+
+Klein, L., & D’Ignazio, C. (2024). Data Feminism for AI. Proceedings of the 2024 ACM Conference on Fairness, Accountability, and Transparency.
 
 Carlini, N., Hayes, J., Nasr, M., Jagielski, M., Sehwag, V., Tramer, F., ... & Wallace, E. (2023). Extracting training data from diffusion models. In 32nd USENIX Security Symposium (USENIX Security 23) (pp. 5253-5270).
 
 Metcalf, J., & Crawford, K. (2016). Where are human subjects in big data research? The emerging ethics divide. Big Data & Society, 3(1), 2053951716650211.
 
-Fiesler, C., & Proferes, N. (2018). “Participant” perceptions of Twitter research ethics. Social Media + Society, 4(1), 2056305118763366.
-
 Baden, C., Pipal, C., Schoonvelde, M., & van der Velden, M. A. G. (2022). Three gaps in computational text analysis methods for social sciences: A research agenda. Communication Methods and Measures, 16(1), 1-18.
 
 Jacobs, A. Z., & Wallach, H. (2021, March). Measurement and fairness. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency (pp. 375-385).
-
-Klein & D’Ignazio (2020). "What Gets Counted Counts" from Data Feminism.
 
 Speer, Rob. (2017). "How to make a racist AI without really trying."
 
