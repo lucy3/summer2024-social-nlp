@@ -280,6 +280,8 @@ Luccioni, A., & Viviano, J. (2021, August). What’s in the box? an analysis of 
 
 <span style="color:gray">**Optional:**</span>
 
+Pawar, S., Park, J., Jin, J., Arora, A., Myung, J., Yadav, S., ... & Augenstein, I. (2024). Survey of Cultural Awareness in Language Models: Text and Beyond. arXiv preprint arXiv:2411.00860.
+
 Kumar, S., Balachandran, V., Njoo, L., Anastasopoulos, A., & Tsvetkov, Y. (2023, May). Language Generation Models Can Cause Harm: So What Can We Do About It? An Actionable Survey. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (pp. 3291-3313).
 
 Sheng, E., Chang, K. W., Natarajan, P., & Peng, N. (2019, November). The Woman Worked as a Babysitter: On Biases in Language Generation. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP) (pp. 3407-3412).
