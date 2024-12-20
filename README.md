@@ -9,7 +9,9 @@ seo:
 ---
 # Social Aspects of Natural Language Processing
 
-This interdisciplinary course offers a sampler of socially meaningful research questions that intersect with the field of natural language processing (NLP). We'll discuss issues around fairness in NLP, such as methodological pitfalls of working with sociocultural data and how biases may arise throughout the language model (LM) development pipeline. In addition, we'll cover how computational social science and cultural analytics can both drive methodological innovation for NLP and uncover substantive findings for the social sciences and humanities. Finally, we'll learn about the emerging intersection of HCI & NLP, which is becoming ever more needed as LMs are deployed in real-world applications in an interactive manner. 
+This interdisciplinary course provides an overview of current research at the intersection of natural language processing (NLP) and adjacent research areas that emphasize the social aspects of language, such as computational social science, cultural analytics, AI ethics, and HCI. Students will learn how NLP can help answer social scientific questions, and how social aspects of language are incorporated into NLP models. We'll examine social issues and pitfalls within the field, and how we can use NLP methods to analyze and support communication and behavior.
+
+This course is targeted towards graduate students and advanced undergraduates who have prior experience with NLP (e.g. word embeddings, topic modeling, large language models). Students will gain an in-depth understanding of on-going research questions, and conduct a hands-on project of their own design that intersects social phenomena with language data. Class time will be a mix of lectures, discussion, and collaborative project work.
 
 {% for module in site.modules %}
 {{ module }}
